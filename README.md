@@ -2,7 +2,7 @@
 - 👀 I’m interested in internship opportunities
 - 🌱 I’m currently learning machine learning tools
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me linkedIn, Email
+- 📫 How to reach me ..LinkedIn, Email
 - 😄 Pronouns: She/Her
 
 <!---
